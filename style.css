@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+}
+section{
+    border: 5px;
+}
+.resim1, .badi1{
+    background-color: #212A3E;
+}
+.resim2, .badi2{
+    background-color: aliceblue;
+}
+.baslik1{
+    text-align: center; 
+    color: #212A3E; 
+    letter-spacing: 1px; 
+    border-bottom: 2px solid #212A3E; 
+    margin-left: 50px; 
+    margin-right: 10px;
+}
+.baslik3{
+    font-size: 15px; 
+    font-family: 'Open Sans', sans-serif; 
+    text-align: left; 
+    color: #212A3E; 
+    letter-spacing: 2px; 
+    border-bottom: 1px solid #212A3E; 
+    margin-left: 50px; 
+    margin-top: 20px;
+}
+
+.price1{
+    text-align: left; 
+    font-size: 15px; 
+    font-family: 'Open Sans', sans-serif; 
+    color: #212A3E; 
+    margin-top: 20px; 
+    margin-right: 50px;
+    padding-left: 0;
+}
+.resim{
+    box-shadow: 5px 5px 5px ;
+    margin: 20px;
+    border-radius: 10px;
+}
+.badi1{
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.badi2{
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.baslik{
+    text-align: center; 
+    color: aliceblue; 
+    letter-spacing: 1px; 
+    border-bottom: 2px solid #ccc; 
+    margin-left: 49px; 
+    margin-right: 10px;
+}
+.baslik2{
+    font-size: 15px; 
+    font-family: 'Open Sans', sans-serif; 
+    text-align: left; 
+    color: aliceblue; 
+    letter-spacing: 2px; 
+    border-bottom: 1px solid #ccc; 
+    margin-left: 50px; 
+    margin-top: 20px;
+}
+.price{
+    text-align: left; 
+    font-size: 15px; 
+    font-family: 'Open Sans', sans-serif; 
+    color: aliceblue; 
+    margin-top: 20px; 
+    margin-right: 50px;
+    padding-left: 0;
+}
